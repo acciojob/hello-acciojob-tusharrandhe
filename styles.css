@@ -5,9 +5,9 @@ main{
 	height:150px;
 	background-color:black;
 	margin-left:32px;
+	padding:10px;
 }
 
 p{
 	color:white;
-	padding:10px;
 }
