@@ -6,8 +6,8 @@ main{
 	background-color:black;
 }
 
-p{
+h1{
 	color:white;
-/* 	margin-left:32px; */
+	margin-left:32px;
 	padding:10px;
 }
