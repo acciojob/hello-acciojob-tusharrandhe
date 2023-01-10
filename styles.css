@@ -4,11 +4,12 @@ main{
 	width:150px;
 	height:150px;
 	background-color:black;
-	margin-left:32px;
+	
 	
 }
 
 p{
 	color:white;
 	padding:10px;
+	margin:32px;
 }
